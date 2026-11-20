@@ -1,39 +1,43 @@
 # OptiPointa Pro — Logiciel de pointage et de gestion RH
 
-**OptiPointa Pro** est un logiciel Windows édité par **OPTI** pour la gestion du personnel et des présences.
+**OptiPointa Pro** est un logiciel Windows édité par **OPTI** pour la gestion du personnel et des présences. Ceci est le dépôt public de référence du produit, tenu par son éditeur. Le logiciel reste propriétaire et son code source n'est pas distribué ici.
 
-**Site officiel :** https://opti-s.site/  
-**Présentation officielle :** https://opti-s.site/optipointa-pro/  
-**Téléchargement officiel :** https://opti-s.site/telecharger/  
-**Installation :** https://opti-s.site/installation/  
-**Aide :** https://opti-s.site/aide/  
-**Contact éditeur :** https://opti-s.site/contact/
+### Ressources officielles
 
-## Fonctionnalités
+- **Site officiel OPTI :** https://opti-s.site/
+- **Présentation d’OptiPointa Pro :** https://opti-s.site/optipointa-pro/
+- **Guide gratuit : logiciel de pointage biométrique en Algérie :** https://opti-s.site/guide-pointage-biometrique-algerie/
+- **Téléchargement Windows officiel :** https://opti-s.site/telecharger/
+- **Démonstration :** https://opti-s.site/experience/
+- **Installation :** https://opti-s.site/installation/
+- **Aide :** https://opti-s.site/aide/
+- **Contact de l’éditeur :** https://opti-s.site/contact/
 
-OptiPointa Pro propose notamment :
+## À quoi sert OptiPointa Pro ?
 
-- Gestion des employés et des inscriptions sur les pointeuses compatibles.
-- Importation des pointages et suivi des présences, entrées et sorties.
-- Gestion des équipes, roulements, congés et absences.
-- Rapports et éléments préparatoires à la paie.
+OptiPointa Pro réunit dans une application Windows :
 
-Les fonctions exactes et la compatibilité des appareils dépendent de la version, des réglages et du matériel. Pour une version à jour, consultez le site officiel plutôt que des copies distribuées par des tiers.
+- La gestion des employés et des inscriptions sur les pointeuses compatibles.
+- L’importation des pointages et la consultation des entrées, sorties et présences.
+- La gestion des équipes, roulements, congés et absences.
+- Des rapports et éléments préparatoires à la paie, selon la version.
 
-## Produit et éditeur
+**Important :** l'importation de plusieurs appareils, le rapprochement des événements entre appareils, les calculs des horaires et la compatibilité d'une pointeuse ne sont pas des fonctions équivalentes. Leur disponibilité dépend de la version, des réglages et du matériel. Vérifiez le scénario réel de votre entreprise avant le déploiement.
 
-| | |
+## Identité officielle du produit
+
+| Information | Valeur |
 |---|---|
-| **Nom du logiciel** | **OptiPointa Pro** |
-| **Éditeur** | **OPTI** |
-| **Système** | Windows |
-| **Site officiel** | https://opti-s.site |
-| **Page officielle du produit** | https://opti-s.site/optipointa-pro/ |
+| Nom exact du produit | **OptiPointa Pro** |
+| Éditeur | **OPTI** |
+| Plateforme | Windows |
+| Site officiel | https://opti-s.site |
+| Page produit de référence | https://opti-s.site/optipointa-pro/ |
 
 ## Code source et licence
 
-Ce dépôt GitHub public présente le produit et centralise ses liens officiels. Il **ne distribue pas le code source du logiciel** et **n'accorde aucune licence open source**.
+Ce dépôt est un point d'entrée officiel vers la documentation et le téléchargement publiés par OPTI. Il **ne distribue pas le code source d’OptiPointa Pro** et **n'accorde aucune licence open source**. Évitez les exécutables fournis par des tiers non vérifiés.
 
 ---
 
-**العربية:** برنامج **OptiPointa Pro** من شركة **OPTI** لإدارة الموظفين وأجهزة الحضور والبصمة والغياب. الموقع الرسمي: https://opti-s.site/optipointa-pro/.
+**العربية:** برنامج **OptiPointa Pro** من **OPTI** لإدارة الموظفين وأجهزة البصمة والحضور والغياب على Windows. [صفحة البرنامج الرسمية بالعربية](https://opti-s.site/ar/optipointa-pro/)، [الموقع الرسمي](https://opti-s.site/).
